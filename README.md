@@ -2,5 +2,5 @@
 E-commerce app using SwifUI.
 
 ## References
-This codebase is references from [swiftuimasterclss.com](https://swiftuimasterclass.com/).
+This codebase is referenced from [swiftuimasterclass.com](https://swiftuimasterclass.com/).
 
